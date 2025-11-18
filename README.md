@@ -63,7 +63,7 @@ This tool is not mine, I have uploaded it here just to make everyone understand.
   <li><span style="color: #2ECC40;"
   <li>For hosting server code, you can use some free services like:</li>
   <ul>
-    <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li> (Recomend)
+    <li><a href="https://replit.com/" style="color: #FF4136;">replit.com</a></li> (Recommended)
     <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
     <li><a href="https://render.com/" style="color: #B10DC9;">render.com</a></li>
@@ -83,3 +83,24 @@ This tool is not mine, I have uploaded it here just to make everyone understand.
     <img src="https://img.shields.io/badge/APK%20Editor%20Download-Click%20to%20Download-brightgreen?style=for-the-badge&logo=android" alt="Download APK Editor" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Disclaimer-Important-red" alt="Important Disclaimer"/>
+</p>
+
+<p align="center">
+  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Dogerat is built for educational and internal use only.
+</p>
+
+<p align="center">
+  <b><i>Attention:</i></b> We do not endorse any illegal or unethical use of this tool. The user assumes all responsibility for the use of this software.
+</p>
+
+<p align="center">
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/diddog.in"><code>@DIDDOG</code></a> and the Telegram handle is <a href="https://t.me/WhiteDevil_00100)"><code>@WhiteDevil_00100</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+</p>
+
+<p align="center">
+  <b><i>Thank you for using Dogerat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
+</p>
+
