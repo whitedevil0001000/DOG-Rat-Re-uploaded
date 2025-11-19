@@ -97,7 +97,7 @@ This tool is not mine, I have uploaded it here just to make everyone understand.
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/diddog.in"><code>@DIDDOG</code></a> and the Telegram handle is <a href="https://t.me/WhiteDevil_00100)"><code>@WhiteDevil_00100</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/diddog.in"><code>@DIDDOG</code></a> and the Telegram handle is <a href="https://t.me/WhiteDevil_00100"><code>@WhiteDevil_00100</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
