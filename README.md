@@ -7,7 +7,7 @@ This tool is not mine, I have uploaded it here just to make everyone understand.
 
 -------------------------
 
-![Logo](https://wigmur.com/dogs/logo.png)
+![Logo](https://ibb.co/gZHR291q)
 <p align="center">
   <i>A multifunctional Telegram based Android RAT without port forwarding</i>
 </p>
